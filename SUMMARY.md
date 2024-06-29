@@ -4,6 +4,10 @@
 
 * [🖐️ 学习导航](README.md)
 
+## 💰 Wallet
+
+* [🔤 助记词与公私钥](wallet/zhu-ji-ci-yu-gong-si-yao.md)
+
 ## 🥇 BTC
 
 * [⚡ 闪电网络](btc/shan-dian-wang-luo.md)
@@ -11,4 +15,4 @@
 
 ## 🥈 ETH
 
-* [Page 2](eth/page-2.md)
+* [🤝 Staking](eth/staking.md)
