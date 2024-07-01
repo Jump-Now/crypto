@@ -12,9 +12,9 @@
 
 它记录交易事件，而不记录最终状态。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 每个 UTXO 的历史都可以追溯到 coinbase 交易的一个或多个输出
 * 每个区块中的第一笔交易是 coinbase 交易。&#x20;

@@ -10,10 +10,13 @@
 
 ## 🥇 BTC
 
+* [🪙 Bitcoin](btc/bitcoin.md)
+* [🎛️ 双花问题](btc/shuang-hua-wen-ti.md)
 * [📑 UTXO](btc/utxo.md)
 * [⚡ 闪电网络](btc/shan-dian-wang-luo.md)
 * [↗️ 交易加速](btc/jiao-yi-jia-su.md)
 
 ## 🥈 ETH
 
-* [🤝 Staking](eth/staking.md)
+* [🤝 质押(Staking)](eth/zhi-ya-staking.md)
+* [🧻 卷叠(Rollup)](eth/juan-die-rollup.md)
