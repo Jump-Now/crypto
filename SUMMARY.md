@@ -18,5 +18,5 @@
 
 ## 🥈 ETH
 
-* [🤝 质押(Staking)](eth/zhi-ya-staking.md)
+* [🤝 质押(Staking)](eth/staking.md)
 * [🧻 卷叠(Rollup)](eth/juan-die-rollup.md)
